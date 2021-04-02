@@ -1,0 +1,10 @@
+.spots {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.spot {
+    width: 20rem;
+    margin: 10px 10px;
+}
