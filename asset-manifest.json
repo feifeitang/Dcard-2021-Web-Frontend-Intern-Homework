@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dcard-2021-Web-Frontend-Intern-Homework/static/css/main.93a6382e.chunk.css",
+    "main.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.b70ac84e.chunk.js",
+    "main.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.b70ac84e.chunk.js.map",
+    "runtime-main.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/runtime-main.f2ce41fc.js",
+    "runtime-main.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/runtime-main.f2ce41fc.js.map",
+    "static/js/2.d4f581fb.chunk.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/2.d4f581fb.chunk.js",
+    "static/js/2.d4f581fb.chunk.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/2.d4f581fb.chunk.js.map",
+    "static/js/3.61bcdf70.chunk.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/3.61bcdf70.chunk.js",
+    "static/js/3.61bcdf70.chunk.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/3.61bcdf70.chunk.js.map",
+    "index.html": "/Dcard-2021-Web-Frontend-Intern-Homework/index.html",
+    "static/css/main.93a6382e.chunk.css.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/css/main.93a6382e.chunk.css.map",
+    "static/js/2.d4f581fb.chunk.js.LICENSE.txt": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/2.d4f581fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ce41fc.js",
+    "static/js/2.d4f581fb.chunk.js",
+    "static/css/main.93a6382e.chunk.css",
+    "static/js/main.b70ac84e.chunk.js"
+  ]
+}
