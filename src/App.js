@@ -14,14 +14,14 @@ function App() {
       <Header title="Scenic Spot" />
       <Switch>
         <div className="container">
-          <Route exact path="/scenicSpot">
+          <Route exact path="/Dcard-2021-Web-Frontend-Intern-Homework/scenicSpot">
             <Spots />
           </Route>
-          <Route exact path="/scenicSpot/:city">
+          <Route exact path="/Dcard-2021-Web-Frontend-Intern-Homework/scenicSpot/:city">
             <Spots />
           </Route>
           <Route>
-            <Redirect to="/scenicSpot" />
+            <Redirect to="/Dcard-2021-Web-Frontend-Intern-Homework/scenicSpot" />
           </Route>
         </div>
       </Switch>

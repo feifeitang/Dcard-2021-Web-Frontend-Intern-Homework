@@ -44,12 +44,12 @@ const Header = ({ title }) => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/">
+                <Link className="nav-link active" aria-current="page" to="/Dcard-2021-Web-Frontend-Intern-Homework/">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/scenicSpot">
+                <Link className="nav-link" to="/Dcard-2021-Web-Frontend-Intern-Homework/scenicSpot">
                   全部景點
                 </Link>
               </li>
@@ -69,7 +69,7 @@ const Header = ({ title }) => {
                     return (
                       <div key={index}>
                         <li>
-                          <Link className="dropdown-item" to={`/scenicSpot/${cities[city]}`}>{city}</Link>
+                          <Link className="dropdown-item" to={`/Dcard-2021-Web-Frontend-Intern-Homework/scenicSpot/${cities[city]}`}>{city}</Link>
                         </li>
                       </div>
                     )
