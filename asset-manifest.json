@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dcard-2021-Web-Frontend-Intern-Homework/static/css/main.93a6382e.chunk.css",
-    "main.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.ef08e792.chunk.js",
-    "main.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.ef08e792.chunk.js.map",
+    "main.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.c6e73f4e.chunk.js",
+    "main.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/main.c6e73f4e.chunk.js.map",
     "runtime-main.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/runtime-main.f2ce41fc.js",
     "runtime-main.js.map": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/runtime-main.f2ce41fc.js.map",
     "static/js/2.d4f581fb.chunk.js": "/Dcard-2021-Web-Frontend-Intern-Homework/static/js/2.d4f581fb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f2ce41fc.js",
     "static/js/2.d4f581fb.chunk.js",
     "static/css/main.93a6382e.chunk.css",
-    "static/js/main.ef08e792.chunk.js"
+    "static/js/main.c6e73f4e.chunk.js"
   ]
 }
